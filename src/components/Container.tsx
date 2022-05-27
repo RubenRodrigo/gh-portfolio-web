@@ -1,7 +1,6 @@
 import { Home } from './pages/Home';
 import { Profile } from './pages/Profile';
 import { Projects } from './pages/Projects';
-import { News } from './pages/News';
 import { Networking } from './pages/Networking';
 import { FiFacebook, FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi';
 import { Skills } from './pages/Skills';
